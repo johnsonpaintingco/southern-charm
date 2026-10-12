@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1200">
+  <rect width="1600" height="1200" fill="white"/>
+
+  <!-- SC monogram: separated, no brush -->
+  <text x="575" y="420"
+        text-anchor="middle"
+        font-family="Georgia, Times New Roman, serif"
+        font-size="500"
+        font-weight="400"
+        fill="#17283A">S</text>
+
+  <text x="1030" y="420"
+        text-anchor="middle"
+        font-family="Georgia, Times New Roman, serif"
+        font-size="500"
+        font-weight="400"
+        fill="#7892A3">C</text>
+
+  <!-- SOUTHERN -->
+  <text x="800" y="650"
+        text-anchor="middle"
+        font-family="Georgia, Times New Roman, serif"
+        font-size="145"
+        font-weight="400"
+        letter-spacing="24"
+        fill="#17283A">SOUTHERN</text>
+
+  <!-- Decorative lines -->
+  <line x1="150" y1="755" x2="455" y2="755"
+        stroke="#7892A3" stroke-width="5"/>
+  <line x1="1145" y1="755" x2="1450" y2="755"
+        stroke="#7892A3" stroke-width="5"/>
+
+  <!-- Charm -->
+  <text x="800" y="825"
+        text-anchor="middle"
+        font-family="Brush Script MT, Segoe Script, cursive"
+        font-size="155"
+        font-style="italic"
+        fill="#7892A3">Charm</text>
+
+  <!-- PAINTING -->
+  <circle cx="525" cy="930" r="8" fill="#7892A3"/>
+  <text x="800" y="948"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="48"
+        font-weight="600"
+        letter-spacing="22"
+        fill="#17283A">PAINTING</text>
+  <circle cx="1075" cy="930" r="8" fill="#7892A3"/>
+</svg>
